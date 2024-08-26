@@ -15,7 +15,7 @@ Tips:
 Address: Marktstraat 10A, 7511 GD Enschede
 
 ## Tutorial
-Could start from this link: https://www.dunns-cues.com/pics/successfulsnooker.pdf
+Could start from this book: [Successful Snooker Guide](https://www.dunns-cues.com/pics/successfulsnooker.pdf)
 
 
 ## Rules

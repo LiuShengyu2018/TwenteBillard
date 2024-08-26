@@ -1,5 +1,6 @@
  ![TwenteBillardLogo](resources/logo.jpg)
 <!-- # TwenteBillard -->
+
 This is an incomplete, error-ridden, useless guide to billiards.
 
 ## Place
